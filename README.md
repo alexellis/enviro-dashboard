@@ -1,7 +1,7 @@
 # enviro-dashboard
 Dashboard stack for monitoring environment with InfluxDB + Grafana 
 
-![http://blog.alexellis.io/content/images/2016/11/Screen-Shot-2016-11-30-at-1-14-33-PM.png]()
+![http://blog.alexellis.io/content/images/2016/11/Screen-Shot-2016-11-30-at-1-14-33-PM.png](http://blog.alexellis.io/content/images/2016/11/Screen-Shot-2016-11-30-at-1-14-33-PM.png)
 
 *Grafana with InfluxDB running on Docker*
 
