@@ -68,11 +68,12 @@ def get_data_points():
     return json_body
 
 try:
+    sleep_duration = float(sleep_time)
     while True:
         json_body = get_data_points()
         client.write_points(json_body)
         print (".")
-        time.sleep(sleep_time)
+        time.sleep(sleep_duration)
 
 except KeyboardInterrupt:
     pass
